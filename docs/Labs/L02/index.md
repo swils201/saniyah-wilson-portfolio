@@ -15,17 +15,19 @@ When FDM printing, one specific consideration that must be kept in mind is therm
 ## Print Something Small    
   
 **Download**   
-<img src="Screenshot 2026-08-29 231718.png" alt="Description" width="500" height="300">
-<img src="Screenshot 2026-08-29 231759.png" alt="Description" width="500" height="300">
-<img src="Screenshot 2026-08-29 231728.png" alt="Description" width="600" height="300">  
+<img src="Screenshot 2026-08-29 231718.png" alt="Description" width="400" height="300">
+<img src="Screenshot 2026-08-29 231759.png" alt="Description" width="400" height="300">
+<img src="Screenshot 2026-08-29 231728.png" alt="Description" width="500" height="300">  
 
-- For my small print I chose a small Mario Coin toy model. I chose this because it connects to something I and my younger siblings enjoy, so it is useful beyond this class. In comparison to designs I considered, it fit into the dimension and time constraints as well with a short height and small diameter.  
+- For my small print I chose a small Mario Coin toy model. I chose this because it connects to something I and my younger siblings enjoy, so it is useful beyond this class. In comparison to designs I considered, it fit into the dimension and time constraints as well with a short height and small diameter.
+    
+<img src="Screenshot 2026-08-29 232023.png" alt="Description" width="400" height="300">     
+   
+- Above is the first design I considered, one I believed would also hold its use beyond this class. However it surpassed the dimension restraints in height and would need to be scaled down, rendering it useless as a functional cable holder.  
+  
+<img src="Screenshot 2026-08-29 232010.png" alt="Description" width="400" height="300">   
+  
+- The last design I considered before my final decision ultimately guided my search in the right direction. Although I would not have a use for it, I considered this coin model because it was a basic model that fit within all the restrictions. Almost immediately, it led me towards the end print chosen.  
   
 
-Above is the first design I considered, one I believed would also hold its use beyond this class. However it surpassed the dimension restraints and would need to be scaled down, rendering it useless as a functional cable holder.  
-
-
-
-The last design I considered before my final decision ultimately guided my search in the right direction. Although I would not have a use for it, I considered this coin model because it would fit within the requirements.  
-
-
+**Preprocessor**
