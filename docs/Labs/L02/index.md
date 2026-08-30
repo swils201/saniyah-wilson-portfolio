@@ -21,11 +21,11 @@ When FDM printing, one specific consideration that must be kept in mind is therm
 
 - For my small print I chose a small Mario Coin toy model. I chose this because it connects to something I and my younger siblings enjoy, so it is useful beyond this class. In comparison to designs I considered, it fit into the dimension and time constraints as well with a short height and small diameter.
     
-<img src="Screenshot 2026-08-29 232023.png" alt="Description" width="400" height="300">     
+<img src="Screenshot 2026-08-29 232023.png" alt="Description" width="500" height="300">     
    
 - Above is the first design I considered, one I believed would also hold its use beyond this class. However it surpassed the dimension restraints in height and would need to be scaled down, rendering it useless as a functional cable holder.  
   
-<img src="Screenshot 2026-08-29 232010.png" alt="Description" width="400" height="300">   
+<img src="Screenshot 2026-08-29 232010.png" alt="Description" width="500" height="300">   
   
 - The last design I considered before my final decision ultimately guided my search in the right direction. Although I would not have a use for it, I considered this coin model because it was a basic model that fit within all the restrictions. Almost immediately, it led me towards the end print chosen.  
   
