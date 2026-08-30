@@ -12,9 +12,9 @@ When FDM printing, one specific consideration that must be kept in mind is therm
 *Source:*  
 - https://www.3dmag.com/3d-wikipedia/3d-print-warping-causes-and-fixes/  
    
-## Print Something Small    
+# Print Something Small    
   
-**Download**   
+## Download     
 <img src="Screenshot 2026-08-29 231718.png" alt="Description" width="400" height="300">
 <img src="Screenshot 2026-08-29 231759.png" alt="Description" width="400" height="300">
 <img src="Screenshot 2026-08-29 231728.png" alt="Description" width="500" height="300">  
@@ -30,16 +30,16 @@ When FDM printing, one specific consideration that must be kept in mind is therm
 - The last design I considered before my final decision ultimately guided my search in the right direction. Although I would not have a use for it, I considered this coin model because it was a basic model that fit within all the restrictions. Almost immediately, it led me towards the end print chosen.  
   
 
-**Preprocessor**  
-  
+## Preprocessor    
+   
 For my group, the only difficulties of the slicing and scaling process was in sharing the files with one another due to WIFI issues at the time. Otherwise, three out of the four models chosen were under the .25 inch height limit and all were within a 2 inches by 2 inches area. The print that surpassed the limit was easily scaled down by adjusting the z-axis restraints to match the assignment stipulations.     
-  
+    
 <img src="Screenshot 2026-08-27 134942.png" alt="Description" width="400" height="300">  
 <img src="Screenshot 2026-08-27 135157.png" alt="Description" width="400" height="300">  
 *Displayed Above: Model Resizing*  
-  
+    
 The build orientation chosen was to put the individual parts as close together as possible without overlapping boundaries or interference. No supports were necessary for this print as well, making it an overall smooth process.  
-  
+    
 <img src="Screenshot 2026-08-27 135228.png" alt="Description" width="500" height="300">
 <img src="Screenshot 2026-08-27 135258.png" alt="Description" width="300" height="400">   
 *Displayed Above: Slicer Information*  
