@@ -13,10 +13,14 @@ When FDM printing, one specific consideration that must be kept in mind is therm
 - https://www.3dmag.com/3d-wikipedia/3d-print-warping-causes-and-fixes/  
    
 ## Print Something Small    
+  
+**Download**   
+<img src="Screenshot 2026-08-29 231718.png" alt="Description" width="500" height="300">
+<img src="Screenshot 2026-08-29 231759.png" alt="Description" width="500" height="300">
+<img src="Screenshot 2026-08-29 231728.png" alt="Description" width="600" height="300">  
 
-**Download**  
-For my small print I chose a small Mario Coin toy model. I chose this because it connects to something I and my younger siblings enjoy, so it is useful beyond this class. In comparison to designs I considered, it fit into the dimension and time constraints as well.  
-
+- For my small print I chose a small Mario Coin toy model. I chose this because it connects to something I and my younger siblings enjoy, so it is useful beyond this class. In comparison to designs I considered, it fit into the dimension and time constraints as well with a short height and small diameter.  
+  
 
 Above is the first design I considered, one I believed would also hold its use beyond this class. However it surpassed the dimension restraints and would need to be scaled down, rendering it useless as a functional cable holder.  
 
