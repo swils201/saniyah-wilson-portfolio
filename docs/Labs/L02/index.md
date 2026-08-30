@@ -42,6 +42,6 @@ The build orientation chosen was to put the individual parts as close together a
   
 <img src="Screenshot 2026-08-27 135228.png" alt="Description" width="500" height="300">
 <img src="Screenshot 2026-08-27 135258.png" alt="Description" width="300" height="400">  
-
+   
 *Displayed Above: Slicer Information*  
 
