@@ -35,13 +35,12 @@ When FDM printing, one specific consideration that must be kept in mind is therm
 For my group, the only difficulties of the slicing and scaling process was in sharing the files with one another due to WIFI issues at the time. Otherwise, three out of the four models chosen were under the .25 inch height limit and all were within a 2 inches by 2 inches area. The print that surpassed the limit was easily scaled down by adjusting the z-axis restraints to match the assignment stipulations.     
   
 <img src="Screenshot 2026-08-27 134942.png" alt="Description" width="400" height="300">  
-<img src="Screenshot 2026-08-27 135157.png" alt="Description" width="400" height="300"> 
+<img src="Screenshot 2026-08-27 135157.png" alt="Description" width="400" height="300">  
 *Displayed Above: Model Resizing*  
   
 The build orientation chosen was to put the individual parts as close together as possible without overlapping boundaries or interference. No supports were necessary for this print as well, making it an overall smooth process.  
   
 <img src="Screenshot 2026-08-27 135228.png" alt="Description" width="500" height="300">
-<img src="Screenshot 2026-08-27 135258.png" alt="Description" width="300" height="400">  
-   
+<img src="Screenshot 2026-08-27 135258.png" alt="Description" width="300" height="400">   
 *Displayed Above: Slicer Information*  
 
