@@ -47,34 +47,49 @@ The build orientation chosen was to put the individual parts as close together a
 ## Print
 For this assignment Jack Welch, Ethan Minton, Nicholas Brady, and I joined together using one printer. The initial pre-heating stages took around 20 minutes or so to complete and were tracked via the displayed percentages on the printers screen.
   
-Once the preheating completed, the start screen presented, showing the print time at 13 minutes and 20 seconds. Our parts were printed using PETG/4 which was loaded into the printer before we arrived. 
-<img src="StartScrn.jpeg" alt="Description" width="500" height="300">  
+Once the preheating completed, the start screen presented, showing the print time at 13 minutes and 20 seconds. Our parts were printed using PETG/4 which was loaded into the printer before we arrived.   
+
+    
+<img src="StartScrn.jpeg" alt="Description" width="500" height="400">  
 *Displayed Above: Start Screen*  
 
 
 The start button was pressed, the printer began the probing process which around a minute to complete, and then material began to be applied to the board.  
-
-  
-*Probing Video:*  
-- https://drive.google.com/file/d/1oM7a1CG6C5GJpG7Mg9u2eAY7eiwPB2If/view?usp=sharing
-
+   
     
+*Probing Video*  
+- https://drive.google.com/file/d/1oM7a1CG6C5GJpG7Mg9u2eAY7eiwPB2If/view?usp=sharing
+   
+      
 After the printing process began, technical issues did as well. The mechanism within the printer that pulls the PETG filament into the nozzle was getting caught making the filament too taut and resulting in a warped first print. The inconsistency of the filament was clear in the early stages of printing, so the process was ended short.  
   
   
-*First Print Attempt Video:*  
+*First Print Attempt Video*  
 - https://drive.google.com/file/d/19rmCVeRXJQ--H5WdXHvuPhpEQJdKLVz9/view?usp=sharing
 
      
 The filament was removed and the printing process was restarted, resulting in a clean print this time around. The print took a total of 18 minutes and 24 seconds to complete, as seen on the display screen.    
   
-<img src="StartScrn.jpeg" alt="Description" width="300" height="300">  
-<img src="StartScrn.jpeg" alt="Description" width="300" height="300">  
-<img src="StartScrn.jpeg" alt="Description" width="300" height="300">  
+<img src="SuccessfulPrint1.jpeg" alt="Description" width="300" height="300">  
+<img src="SuccessfulPrint2.jpeg" alt="Description" width="300" height="300">  
+<img src="FinalDisplay.jpeg" alt="Description" width="300" height="300">  
 
 *Displayed Above: A successful print!*
 
-*Successful Print Video:*  
-- https://drive.google.com/file/d/1yYRTucWjNqt6fyvwtHBTRuUta0dvB_VC/view?usp=sharing
-  
+*Successful Print Video*  
 
+- https://drive.google.com/file/d/1yYRTucWjNqt6fyvwtHBTRuUta0dvB_VC/view?usp=sharing
+
+
+## Lessons Learned  
+
+One of the biggest lessons I learned through this process is that to complete a print for a deadline, the preprocesses should be started early. Whether that is starting the heating, sharing files, or finding a print within specific requirements;  all could take more time than expected. Another lesson learned is to watch to keep an eye on the printer throughout the process. Time would have been wasted if the warped print had been allowed to continue and was caught early because of my group members attentiveness.  
+    
+Another issue I learned from was in my difficulty of finding a print I desired that meant the requirements. My first search on Printables involved looking through the categories generally but time can be saved from remembering to filter for specific assignment dimensions. Lastly, without access to the Rapid lab for this assignment, it is important to keep in mind a buddy system, so no one is left locked out the room.    
+
+## Resources   
+  
+- https://www.printables.com/model/81801-mario-coin/files  
+- https://www.printables.com/model/485369-dummy-1-euro-coin  
+- https://www.printables.com/model/1810505-minimal-cable-holders-3d-printable-cable-clips-org/files
+  
