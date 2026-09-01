@@ -36,12 +36,14 @@ For my group, the only difficulties of the slicing and scaling process was in sh
     
 <img src="Screenshot 2026-08-27 134942.png" alt="Description" width="400" height="300">  
 <img src="Screenshot 2026-08-27 135157.png" alt="Description" width="400" height="300">  
+
 *Displayed Above: Model Resizing*  
     
 The build orientation chosen was to put the individual parts as close together as possible without overlapping boundaries or interference. No supports were necessary for this print as well, making it an overall smooth process.  
     
 <img src="Screenshot 2026-08-27 135228.png" alt="Description" width="500" height="300">
 <img src="Screenshot 2026-08-27 135258.png" alt="Description" width="300" height="400">   
+
 *Displayed Above: Slicer Information*  
 
 ## Print
@@ -51,12 +53,14 @@ Once the preheating completed, the start screen presented, showing the print tim
 
     
 <img src="StartScrn.jpeg" alt="Description" width="500" height="400">  
+
 *Displayed Above: Start Screen*  
 
 
 The start button was pressed, the printer began the probing process which around a minute to complete, and then material began to be applied to the board.  
    
     
+
 *Probing Video*  
 - https://drive.google.com/file/d/1oM7a1CG6C5GJpG7Mg9u2eAY7eiwPB2If/view?usp=sharing
    
@@ -74,9 +78,8 @@ The filament was removed and the printing process was restarted, resulting in a 
 <img src="SuccessfulPrint2.jpeg" alt="Description" width="300" height="300">  
 <img src="FinalDisplay.jpeg" alt="Description" width="300" height="300">  
 
-*Displayed Above: A successful print!*
-
-*Successful Print Video*  
+*Displayed Above: A successful print!  
+Successful Print Video*
 
 - https://drive.google.com/file/d/1yYRTucWjNqt6fyvwtHBTRuUta0dvB_VC/view?usp=sharing
 
