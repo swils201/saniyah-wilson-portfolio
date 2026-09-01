@@ -44,3 +44,37 @@ The build orientation chosen was to put the individual parts as close together a
 <img src="Screenshot 2026-08-27 135258.png" alt="Description" width="300" height="400">   
 *Displayed Above: Slicer Information*  
 
+## Print
+For this assignment Jack Welch, Ethan Minton, Nicholas Brady, and I joined together using one printer. The initial pre-heating stages took around 20 minutes or so to complete and were tracked via the displayed percentages on the printers screen.
+  
+Once the preheating completed, the start screen presented, showing the print time at 13 minutes and 20 seconds. Our parts were printed using PETG/4 which was loaded into the printer before we arrived. 
+<img src="StartScrn.jpeg" alt="Description" width="500" height="300">  
+*Displayed Above: Start Screen*  
+
+
+The start button was pressed, the printer began the probing process which around a minute to complete, and then material began to be applied to the board.  
+
+  
+*Probing Video:*  
+- https://drive.google.com/file/d/1oM7a1CG6C5GJpG7Mg9u2eAY7eiwPB2If/view?usp=sharing
+
+    
+After the printing process began, technical issues did as well. The mechanism within the printer that pulls the PETG filament into the nozzle was getting caught making the filament too taut and resulting in a warped first print. The inconsistency of the filament was clear in the early stages of printing, so the process was ended short.  
+  
+  
+*First Print Attempt Video:*  
+- https://drive.google.com/file/d/19rmCVeRXJQ--H5WdXHvuPhpEQJdKLVz9/view?usp=sharing
+
+     
+The filament was removed and the printing process was restarted, resulting in a clean print this time around. The print took a total of 18 minutes and 24 seconds to complete, as seen on the display screen.    
+  
+<img src="StartScrn.jpeg" alt="Description" width="300" height="300">  
+<img src="StartScrn.jpeg" alt="Description" width="300" height="300">  
+<img src="StartScrn.jpeg" alt="Description" width="300" height="300">  
+
+*Displayed Above: A successful print!*
+
+*Successful Print Video:*  
+- https://drive.google.com/file/d/1yYRTucWjNqt6fyvwtHBTRuUta0dvB_VC/view?usp=sharing
+  
+
