@@ -1,6 +1,6 @@
 <img width="1597" height="886" alt="image" src="https://github.com/user-attachments/assets/a53b1761-774c-4802-a640-2180a9239185" />
 
-# A3 – [Topic]
+# A3 – Design Something Small
 
 ## Objective
 Design a small object, develop preprocessor skills, and 3D print the designed item.
