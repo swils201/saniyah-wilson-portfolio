@@ -60,12 +60,12 @@ I chose to only infill to 50% density, because Gyroid can become costly in time 
 <img src="IMG_6167.jpeg" width="50%">
 <img src="IMG_6169.jpeg" width="50%">
 <img src="IMG_6171.jpeg" width="50%">  
-
   
-**Print Photos:**
+  
+**Print Photos:**    
 <img src="image1.jpeg" width="50%">
 <img src="image3.jpeg" width="50%">
-<img src="image6.jpeg" width="50%">  
+<img src="image6.jpeg" width="50%">   
 *Above, the infill of each part is visible.*  
 
 **Watch the Print:**  
