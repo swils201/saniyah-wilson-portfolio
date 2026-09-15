@@ -44,7 +44,7 @@ Each angle was carved out using the Cut Extrude tool.
 ***Preprocessor Research***   
 In consideration of benchmarking the Prusa Core One angle parameter, I wanted all preprocessor parameters to promote successful printing while still allowing visible overhang failure in the artifact. Through research documented in the Resources section below, I determined wall thickness was the most important parameter to adjust to meet this goal. I chose to increase the wall thickness by using 3 vertical shell perimeters. My intention was to increase stability to eliminate it as a potential cause of the sagging typically seen.
   
-<img src="PrusaSetting1.png" width="50%">  <img src="FinalArtifact.png" width="50%">  
+<img src="PrusaSetting1.png" width="50%">  <img src="PrusaSetting2.png" width="50%">  <img src="FinalArtifact.png" width="50%">  
   
 Additionally, I decreased infill density to 10% with the same goal in mind. In an attempt to prevent any other error, I kept the PrusaSlicer recommended layer height for the model. I was unable to find any evidence that a specific infill pattern would affect the results of this particular test, so I chose to keep the recommended pattern as well. The system recommended a grid infill, as it is common for low density parts.
   
