@@ -14,9 +14,10 @@ To find the difference between each angle from 45°, I used the following formul
   
 The exception to this formula is the highest angle in the model. I decided to decrease the originally planned 89.4° to 85°, as I was concerned that there would be no visible difference between this angle and 90°.  
   
-*Calculations*
-<img src="IpadDesign.jpeg" width="60%">
-   
+*Calculations*  
+  
+<img src="IpadDesign.jpg" width="60%">
+    
 ***Initial Sketch***  
    
 Once the basic geometry, dimensions, and angle estimates were decided, I began translating the sketch to SolidWorks. I free-sketched the shape, coincident to the origin, and input my chosen dimensions into one over hang extension. I used relations to align the CAD sketch with my initial design and extruded the sketch.  
@@ -45,15 +46,22 @@ In consideration of benchmarking the Prusa Core One angle parameter, I wanted al
   
 <img src="PrusaSetting1.png" width="50%">  <img src="FinalArtifact.png" width="50%">  
   
-Additionally I decreased infill density to 10% with the same goal in mind. In an attempt to prevent any other error, I kept the PrusaSlicer recommended layer height for the model. I was unable to find any evidence that a specific infill pattern would affect the results of this particular test, so I chose to keep the recommended pattern as well. The system recommended a grid infill, as it is common for low density parts.
+Additionally, I decreased infill density to 10% with the same goal in mind. In an attempt to prevent any other error, I kept the PrusaSlicer recommended layer height for the model. I was unable to find any evidence that a specific infill pattern would affect the results of this particular test, so I chose to keep the recommended pattern as well. The system recommended a grid infill, as it is common for low density parts.
   
 <img src="PrusaSet.png" width="50%"> 
   
 ## Print Artifact
 I printed my benchmark artifact in General PETG with an estimated printing time of around 20 minutes and an actual printing time of 33 minutes. 
-
-**Watch it Print:** 
-**Other Visuals from Print:**
+  
+**Watch it Print:**  https://drive.google.com/drive/folders/11TTlk8jCx9OiNJc9GAkbGBhsE6BrRDSS?usp=sharing 
+  
+**Other Visuals from Print:**  
+  
+<img src="Est.Print.jpeg" width="40%">  <img src="StartScrn (2).jpeg" width="40%">  <img src="FinalPrint.jpeg" width="40%">  <img src="FinalScreen.jpeg" width="40%">  
+  
+*Close Up of Infill Design -*  
+<img src="InfillShot.jpeg" width="30%">  
+  
 ## Lessons Learned  
 Overall, the outcome of my artifact was the same as I hypothesized, as failure was isolated the side of the artifact with angles larger than 45°. Through the process I was able to gain a further understanding of preprocessor parameters, specifically the connection between overhangs and wall thickness. In the future, I now know that increasing perimeters is wise when attempting to avoid overhangs while printing without supports.
 
