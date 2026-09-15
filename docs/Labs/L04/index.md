@@ -31,7 +31,7 @@ Each angle was carved out using the Cut Extrude tool.
   
 <img src="FinalArtifact.png" width="50%">  
 
-***Preprocessor Research***
+***Preprocessor Research***   
 In consideration of benchmarking the Prusa Core One angle parameter, I wanted all preprocessor parameters to promote successful printing while still allowing visible overhang failure in the artifact. Through research documented in the Resources section below, I determined wall thickness was the most important parameter to adjust to meet this goal. I chose to increase the wall thickness by using 3 vertical shell perimeters. My intention was to increase stability to eliminate it as a potential cause of the sagging typically seen.
   
 <img src="PrusaSetting1.png" width="50%">  <img src="FinalArtifact.png" width="50%">  
