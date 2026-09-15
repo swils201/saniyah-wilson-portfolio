@@ -1,7 +1,7 @@
 # A4 – Benchmark a Parameter
 
 ## Parameter
-This week, I am designing an benchmark artifact testing the overhang limits of the Prusa Core One.  
+This week, I am designing an benchmark artifact testing the overhang limits of the Prusa Core One. I predict the print will start to see Overhang failure at angles increasing past 45°.
   
 ## Document Design & Preprocessor
 To start my design, I began with a drawing of the basic Top View Geometry. I chose to design for an 
@@ -42,8 +42,11 @@ Additionally I decreased infill density to 10% with the same goal in mind. In an
   
 ## Print Artifact
 
-## Lessons Learned
-T
+## Lessons Learned  
+Overall, the outcome of my artifact was the same as I hypothesized, as failure was isolated the side of the artifact with angles larger than 45°. Through the process I was able to gain a further understanding of preprocessor parameters, specifically the connection between overhangs and wall thickness. In the future, I now know that increasing perimeters is wise when attempting to avoid overhangs while printing without supports.
+
+In the success of my artifact I found that another helpful lesson to take forward is to consider all aspects of the preprocessing step in relation to each other. This meant I didn't eliminate the affects of one change through another. When it came time to print, research informed me that PETG would be successful to demonstrate this type of failure, as it is known for poor overhangs. Lastly, if done again, I may have scaled up this print to demonstrate this further.  
+  
 ## Resources
   
 - https://help.prusa3d.com/article/modeling-with-3d-printing-in-mind_164135
@@ -54,5 +57,4 @@ T
 - https://3dplatform.com/blogs/blog/printing-overhangs-beyond-45-degrees
 - https://www.microcenter.com/site/mc-news/article/overhang-test.aspx
   
-## Communicate
 
