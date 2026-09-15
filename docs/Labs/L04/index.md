@@ -57,7 +57,9 @@ I printed my benchmark artifact in General PETG with an estimated printing time 
 ## Lessons Learned  
 Overall, the outcome of my artifact was the same as I hypothesized, as failure was isolated the side of the artifact with angles larger than 45°. Through the process I was able to gain a further understanding of preprocessor parameters, specifically the connection between overhangs and wall thickness. In the future, I now know that increasing perimeters is wise when attempting to avoid overhangs while printing without supports.
 
-In the success of my artifact I found that another helpful lesson to take forward is to consider all aspects of the preprocessing step in relation to each other. This meant I didn't eliminate the affects of one change through another. When it came time to print, research informed me that PETG would be successful to demonstrate this type of failure, as it is known for poor overhangs. Lastly, if done again, I may have scaled up this print to demonstrate this further.  
+In the success of my artifact I found that another helpful lesson to take forward is to consider all aspects of the preprocessing step in relation to each other. This meant I didn't eliminate the affects of one change through another. When it came time to print, research informed me that PETG would be successful to demonstrate this type of failure, as it is known for poor overhangs. Lastly, if done again, I may have scaled up this print to demonstrate this further. 
+
+This assignment in total took between 4 to 5 hours to complete.
   
 ## Resources
   
