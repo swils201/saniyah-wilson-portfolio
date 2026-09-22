@@ -47,16 +47,17 @@ From this, the height is chosen to be 0.025 in.
   
 **FBD of Clip Member**
   
-<img src="L5CLIPDESIGN.png" alt="Part 1 Initial Sketch" width="50%" />
-<img src="L5GIVEN2.png" alt="Part 1 Initial Sketch" width="50%" />
+<img src="L5CLIPDESIGN.jpg" alt="Part 1 Initial Sketch" width="40%" />
+<img src="L5GIVEN3.jpg" alt="Part 1 Initial Sketch" width="30%" />  
   
-To begin determining the second designed dimension, I began with a free body of a single member of Component One. Given values were once again noted for convenience.
+To begin determining the second designed dimension, I began with a free body of a single member of Component One. Given values were once again noted for convenience.  
   
-*Formulas and Algebraic Calculations*
+*Formulas and Algebraic Calculations*  
   
-<img src="L5LFORMULAS1.jpg" alt="Part 1 Initial Sketch" width="50%" />
-Beginning the formulas, the moment acting on the members is caused by the transverse load (F = 5 lb) and the relationship between it, the width designed for strength, and maximum normal stress are  documented. 
+Beginning the formulas, the moment acting on the members is caused by the transverse load (F = 5 lb) and the relationship between it, the width designed for strength, and maximum normal stress are  documented.  
   
+<img src="L5LFORMULAS.jpg" alt="Part 1 Initial Sketch" width="50%" />  
+   
 This relationship is rearranged alongside the previously noted definition stress, to find the minimum length designed for strength.
   
 <img src="L5LFORMULAS2.jpg" alt="Part 1 Initial Sketch" width="50%" />
@@ -64,33 +65,43 @@ This relationship is rearranged alongside the previously noted definition stress
   
 Before beginning numerical calculations, other given values are documented. 
   
-<img src="L5GIVEN3.jpg" alt="Part 1 Initial Sketch" width="50%" />
+<img src="L5GIVEN3.jpg" alt="Part 1 Initial Sketch" width="30%" />
   
 *Numerical Calculations*
 <img src="L5LSOLVE.jpg" alt="Part 1 Initial Sketch" width="50%" />
   
 **Final Sketch**
   
-*Minor Calculations*
-To determine the angle necessary to fully define the lip, the chosen l2-length is used alongside the chosen lip height. 
+*Minor Calculations*  
   
-<img src="L5LIPANGLE.jpg" alt="Part 1 Initial Sketch" width="50%" />
+To determine the angle necessary to fully define the lip, the chosen l2-length is used alongside the chosen lip height.  
   
-*End Result*
-Any undefined dimensions from this point are chosen, with the goal to have realistic proportion with existing design decisions. The final sketch is complete!
+<img src="L5LIPANGLE.jpg" alt="Part 1 Initial Sketch" width="40%" />  
   
-<img src="L5FINALSKCH.jpg" alt="Part 1 Initial Sketch" width="50%" />
-<img src="L5LFINALSKCH2.jpg" alt="Part 1 Initial Sketch" width="50%" />
+*End Result*  
 
+Any undefined dimensions from this point are chosen, with the goal to have realistic proportion with existing design decisions. The final dimensions for the fitting Component Two are documented as well, completing the final sketch!  
+   
+<img src="L5FINALSKCH.jpg" alt="Part 1 Initial Sketch" width="50%" />
+<img src="L5LFINALSKCH2.jpg" alt="Part 1 Initial Sketch" width="50%" />  
   
+   
 ## Parametrically Design and CAD Modeling
+
+I began translated this design into CAD modeling through using parametric design to model Component One. I chose to use most variables found within my algebraic calculations as the parameters for the equations within this model, because I've found this is a good way to catch numerical errors. 
+
 <img src="L5PARAMETRIC.png" alt="Part 1 Initial Sketch" width="50%" />
 
+Although I unfortunately lost the documentation, originally a small error existed within my length calculations. Through parametric design, I was able to identify that the wrong force was used when the calculation was done manually. The correction was made to both portions of the design.
 
+Once parameters were set, I modeled the general geometry, fixed to the origin of the top plane. The general shape was then dimensioned and extruded with those parameters.
 <img src="L5CAD.png" alt="Part 1 Initial Sketch" width="50%" />
 <img src="L5EXTRUDE.png" alt="Part 1 Initial Sketch" width="50%" />
+
+When considering interference between Component One and Component Two and the tolerance allowance for the Prusa Core One, I decided to chamfer the free ends of Component One rather than change the general dimension. This was in hopes to keep the functioning part as close to the intended calculations and design as possible. I chose a 45 degree angle to overaccommodate for this 0.1 mm tolerance. 
 <img src="L5CHAMFER.png" alt="Part 1 Initial Sketch" width="50%" />
 <img src="L5FILLET.png" alt="Part 1 Initial Sketch" width="50%" />
+
 <img src="L5FINAL.png" alt="Part 1 Initial Sketch" width="50%" />
 
 
