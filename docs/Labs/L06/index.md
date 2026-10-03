@@ -42,9 +42,9 @@ The failures in the first print largely came from the overall surface area of ea
   
 **Model Adjustments**  
   
-<img src="L6_R1CAD6.png" alt="Description" style="width: 50%;">    
-  
-<img src="L6_R1CAD.png" alt="Description" style="width: 50%;"> <img src="L6_R1CAD1.png" alt="Description" style="width: 50%;"> <img src="L6_R1CAD2.png" alt="Description" style="width: 50%;"> <img src="L6_R1CAD3.png" alt="Description" style="width: 50%;"> <img src="L6_R1CAD4.png" alt="Description" style="width: 50%;"> <img src="L6_R1CAD5.png" alt="Description" style="width: 50%;">  
+<img src="L6_R1CAD6.png" alt="Description" style="width: 40%;">    
+
+<img src="L6_R1CAD.png" alt="Description" style="width: 50%;"> <img src="L6_R1CAD2.png" alt="Description" style="width: 50%;"> <img src="L6_R1CAD3.png" alt="Description" style="width: 50%;"> <img src="L6_R1CAD4.png" alt="Description" style="width: 50%;"> <img src="L6_R1CAD5.png" alt="Description" style="width: 50%;">  
 
 #### Prototype 3
 ## Documentation
@@ -58,16 +58,28 @@ Otherwise, system recommended slicer settings were accepted for a small print at
 
 **Initial Prototype Sliced:**
 
-<img src="L6_PRUSAPRINT1.png" alt="Description" style="width: 50%;"><img src="L6_PRUSASLICE1.1.png" alt="Description" style="width: 50%;"><img src="L6_PRUSASLICE1.2.png" alt="Description" style="width: 50%;"> <img src="L6_PRUSASLICE1.png" alt="Description" style="width: 50%;">
+<img src="L6_PRUSAPRINT1.png" alt="Description" style="width: 50%;"> <img src="L6_PRUSASLICE1.1.png" alt="Description" style="width: 50%;"> <img src="L6_PRUSASLICE1.2.png" alt="Description" style="width: 50%;"> <img src="L6_PRUSASLICE1.png" alt="Description" style="width: 50%;">
 
 Unfortunately, this design was unsuccessful when printed. Measurements were too small and met the constraints of the Prusa Core One's 0.4 mm nozzle. 
 
 **Initial Prototype Visuals:**
 
 
-#### First Adjustment
+#### First Adjustment, Failure, and Further Prototypes
 
+Some adjustments were made to the PrusaSlicer settings to improve the print as well. The most significant being a reduction of layer height by 50%, in hopes to achieve more accuracy.
 
+**Prototype 2 Sliced:**
+  
+<img src="L6_R1PRUSASLICER.png" alt="Description" style="width: 50%;"> <img src="L6R1PRUSASLICER2.png" alt="Description" style="width: 50%;">
 
+Although this print did not have as many failures surrounding the peg, the dimensions of both Components were just slightly off in terms of securely fitting to the part. To further specify such small tolerances, parametric equations were adjusted in trial prints 3-6. 
+
+**Prototype 2 Visuals**
+
+**Trial Print Visuals**
+*Trial 1*
+*Trial 2*
+*Trial 3*
 ## Lessons Learned
 
