@@ -97,6 +97,7 @@ Although this print did not have as many failures surrounding the peg, the dimen
 Settings were left for alone for the trial prints, as I felt all adjustments that would improve this sort of failure were made. These trials relied purely on design decisions and parametric adjustments within the model.  
     
 **Trial Print Visual**  
+  
 <img src="L6_TRIALPRINTS.jpeg" alt="Description" style="width: 50%;">   
   
 #### Final Print
@@ -107,10 +108,14 @@ Settings were left for alone for the trial prints, as I felt all adjustments tha
 **Final Print Visuals**  
    
 <img src="L6_FINALCAD.png" alt="Description" style="width: 50%;"> 
-<img src="L6_FINALPRUSA.jpeg" alt="Description" style="width: 50%;"> 
+<img src="L6_FINALPRUSA.jpeg" alt="Description" style="width: 40%;"> 
 <img src="L6_TRIAL2.1.jpeg" alt="Description" style="width: 50%;"> 
 <img src="L6_FINALPRINT.jpeg" alt="Description" style="width: 50%;"> 
 <img src="L6_FINALPRINTT.jpeg" alt="Description" style="width: 50%;">   
+  
+**Final Fit**
+  
+<img src="L6_FINALFIT.jpeg" alt="Description" style="width: 50%;">  
   
 ## Communicate  
     
@@ -122,6 +127,8 @@ I have also learned the importance of refreshing existing machining limitations 
   
 Overall, the larger lesson learned is that it is important to become clear on how design expectations can realistically be translated to a physical print.  
   
+This assignment took between 8-9 hours to complete.  
+
   
 ### Download My Files or Watch My Print!  
   
