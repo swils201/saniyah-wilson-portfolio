@@ -101,8 +101,12 @@ Settings were left for alone for the trial prints, as I felt all adjustments tha
 #### Final Print
 
     For the final print, I was able to determine a +0.05 allowance for the diameter of the hole. This was adjusted within the parametric measurements for this revisions CAD model. I chose to reduce the layer height further to 0.3 mm to increase tolerance accuracy. 
-<img src="L6_TRIAL2.jpeg" alt="Description" style="width: 50%;"> 
+<img src="L6_FINALCAD.png" alt="Description" style="width: 50%;"> 
+<img src="L6_FINALPRUSA.jpeg" alt="Description" style="width: 50%;"> 
 <img src="L6_TRIAL2.1.jpeg" alt="Description" style="width: 50%;"> 
+<img src="L6_FINALPRINT.jpeg" alt="Description" style="width: 50%;"> 
+<img src="L6_FINALPRINTT.jpeg" alt="Description" style="width: 50%;"> 
+
 **Final Print Visuals**
 
   
