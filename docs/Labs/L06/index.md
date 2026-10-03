@@ -86,42 +86,44 @@ Some adjustments were made to the PrusaSlicer settings to improve the print as w
 <img src="L6_R1PRUSASLICER.png" alt="Description" style="width: 30%;"> <img src="L6R1PRUSASLICER2.png" alt="Description" style="width: 50%;">  
   
 Although this print did not have as many failures surrounding the peg, the dimensions of both Components were just slightly off in terms of securely fitting to the part. To further specify such small tolerances, parametric equations were adjusted in trial prints 3-6.  
-    
-**Prototype 2 Visuals**    
+     
+**Prototype 2 Visuals**     
+  
 <img src="L6_TRIAL2.jpeg" alt="Description" style="width: 50%;"> 
 <img src="L6_TRIAL2.1.jpeg" alt="Description" style="width: 50%;"> 
+   
+**Trial Run Slicer Settings**   
   
-**Trial Run Slicer Settings**
-
-Settings were left for alone for the trial prints, as I felt all adjustments that would improve this sort of failure were made. These trials relied purely on design decisions and parametric adjustments within the model.
+Settings were left for alone for the trial prints, as I felt all adjustments that would improve this sort of failure were made. These trials relied purely on design decisions and parametric adjustments within the model.  
+    
+**Trial Print Visual**  
+<img src="L6_TRIALPRINTS.jpeg" alt="Description" style="width: 50%;">   
   
-**Trial Print Visual**
-<img src="L6_TRIALPRINTS.jpeg" alt="Description" style="width: 50%;"> 
-
 #### Final Print
-
-    For the final print, I was able to determine a +0.05 allowance for the diameter of the hole. This was adjusted within the parametric measurements for this revisions CAD model. I chose to reduce the layer height further to 0.3 mm to increase tolerance accuracy. 
+  
+    For the final print, I was able to determine a +0.05 allowance for the diameter of the hole. This was adjusted within the parametric measurements for this revisions CAD model. I chose to reduce the layer height further to 0.3 mm to increase tolerance accuracy.   
+  
+  
+**Final Print Visuals**  
+   
 <img src="L6_FINALCAD.png" alt="Description" style="width: 50%;"> 
 <img src="L6_FINALPRUSA.jpeg" alt="Description" style="width: 50%;"> 
 <img src="L6_TRIAL2.1.jpeg" alt="Description" style="width: 50%;"> 
 <img src="L6_FINALPRINT.jpeg" alt="Description" style="width: 50%;"> 
-<img src="L6_FINALPRINTT.jpeg" alt="Description" style="width: 50%;"> 
-
-**Final Print Visuals**
-
+<img src="L6_FINALPRINTT.jpeg" alt="Description" style="width: 50%;">   
   
-## Communicate
-
-### Lessons Learned
-
-The number one takeaway I had from this assignment was the importance of carefully thinking through taken measurements of a part if given limited time. Most of the difficulties I had surrounded having measurements which were not ideal for the design. Although it was easier to find a solution to the issue with the parametric equation set up, it would not be practical outside of this class. Additionally, the labeling of parametric equations was a neglected task within the project, which would have made needed changes clearer. 
-
-I have also learned the importance of refreshing existing machining limitations before design. The first failure could have been predicted, had a considered the size of the peg gap in comparison to the extrusion nozzle. 
-
-Overall, the larger lesson learned is that it is important to become clear on how design expectations can realistically be translated to a physical print.
-
-
-### Download My Files or Watch My Print!
-
+## Communicate  
+    
+### Lessons Learned   
+  
+The largest takeaway I had from this assignment was the importance of carefully thinking through taken measurements of a part if given limited time. Most of the difficulties I had surrounded having measurements which were not ideal for the design. Although it was easier to find a solution to the issue with the parametric equation set up, it would not be practical outside of this class. Additionally, the labeling of parametric equations was a neglected task within the project, which would have made needed changes clearer.  
+  
+I have also learned the importance of refreshing existing machining limitations before design. The first failure could have been predicted, had a considered the size of the peg gap in comparison to the extrusion nozzle.   
+  
+Overall, the larger lesson learned is that it is important to become clear on how design expectations can realistically be translated to a physical print.  
+  
+  
+### Download My Files or Watch My Print!  
+  
 https://drive.google.com/drive/folders/1XP25l3x4ODb4-nHQoXARtpjfZZjzCM8X?usp=sharing
 
