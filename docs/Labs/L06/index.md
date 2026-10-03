@@ -46,40 +46,79 @@ The failures in the first print largely came from the overall surface area of ea
 
 <img src="L6_R1CAD.png" alt="Description" style="width: 50%;"> <img src="L6_R1CAD2.png" alt="Description" style="width: 50%;"> <img src="L6_R1CAD3.png" alt="Description" style="width: 50%;"> <img src="L6_R1CAD4.png" alt="Description" style="width: 50%;"> <img src="L6_R1CAD5.png" alt="Description" style="width: 50%;">  
 
-#### Prototype 3
-## Documentation
+#### Trial 1
+  
+<img src="L6_R2CAD.png" alt="Description" style="width: 50%;"> <img src="L6_R2PARAMETRIC.png" alt="Description" style="width: 50%;">   
 
-
+#### Trial 2
+  
+<img src="L6_R5CAD.png" alt="Description" style="width: 50%;"> <img src="L6_R5PARAMETRIC.png" alt="Description" style="width: 50%;">      
+  
+#### Trial 3
+  
+<img src="L6_CADCHANGE.png" alt="Description" style="width: 50%;"> <img src="L6_CADCHANGE2.png" alt="Description" style="width: 50%;">    
+  
+## Documentation   
+  
 #### Initial Prototype Print  
   
-I followed nearly the exact slicer settings as I used in last weeks design because of the success I had with it it. One difference is the infill density set at 40% rather than 50%; a decision made because of the size of the part. Another decision, backed by similar reasoning, was to decrease the layer height to 0.1mm. 
-
-Otherwise, system recommended slicer settings were accepted for a small print at 0.35g. Build orientation was aligned for the part to lay on one side. This allows for deposition of the filament along the flexure of the supporting beam piece. 
-
-**Initial Prototype Sliced:**
-
-<img src="L6_PRUSAPRINT1.png" alt="Description" style="width: 50%;"> <img src="L6_PRUSASLICE1.1.png" alt="Description" style="width: 50%;"> <img src="L6_PRUSASLICE1.2.png" alt="Description" style="width: 50%;"> <img src="L6_PRUSASLICE1.png" alt="Description" style="width: 50%;">
-
-Unfortunately, this design was unsuccessful when printed. Measurements were too small and met the constraints of the Prusa Core One's 0.4 mm nozzle. 
-
-**Initial Prototype Visuals:**
-
-
-#### First Adjustment, Failure, and Further Prototypes
-
-Some adjustments were made to the PrusaSlicer settings to improve the print as well. The most significant being a reduction of layer height by 50%, in hopes to achieve more accuracy.
-
-**Prototype 2 Sliced:**
+I followed nearly the exact slicer settings as I used in last weeks design because of the success I had with it it. One difference is the infill density set at 40% rather than 50%; a decision made because of the size of the part. Another decision, backed by similar reasoning, was to decrease the layer height to 0.1mm.  
   
-<img src="L6_R1PRUSASLICER.png" alt="Description" style="width: 50%;"> <img src="L6R1PRUSASLICER2.png" alt="Description" style="width: 50%;">
+Otherwise, system recommended slicer settings were accepted for a small print at 0.35g. Build orientation was aligned for the part to lay on one side. This allows for deposition of the filament along the flexure of the supporting beam piece.   
+  
+**Initial Prototype Sliced:**  
+  
+<img src="L6_PRUSAPRINT1.png" alt="Description" style="width: 50%;"> <img src="L6_PRUSASLICE1.1.png" alt="Description" style="width: 50%;"> <img src="L6_PRUSASLICE1.2.png" alt="Description" style="width: 50%;"> <img src="L6_PRUSASLICE1.png" alt="Description" style="width: 50%;">  
+  
+Unfortunately, this design was unsuccessful when printed. Measurements were too small and met the constraints of the Prusa Core One's 0.4 mm nozzle.  
+  
+**Initial Prototype Visuals:**  
+  
+  <img src="L6_OGPRINT.jpeg" alt="Description" style="width: 50%;"> 
+   <img src="L6_OGPRINT2.jpeg" alt="Description" style="width: 50%;"> 
+     
+#### First Adjustment, Failure, and Further Prototypes  
+  
+Some adjustments were made to the PrusaSlicer settings to improve the print as well. The most significant being a reduction of layer height by 50%, in hopes to achieve more accuracy.  
+  
+**Prototype 2 Sliced:**  
+   
+<img src="L6_R1PRUSASLICER.png" alt="Description" style="width: 50%;"> <img src="L6R1PRUSASLICER2.png" alt="Description" style="width: 50%;">  
+  
+Although this print did not have as many failures surrounding the peg, the dimensions of both Components were just slightly off in terms of securely fitting to the part. To further specify such small tolerances, parametric equations were adjusted in trial prints 3-6.  
+    
+**Prototype 2 Visuals**    
+<img src="L6TRIAL2.jpeg" alt="Description" style="width: 50%;"> 
+<img src="L6TRIAL2.1.jpeg" alt="Description" style="width: 50%;"> 
+  
+**Trial Run Slicer Settings**
 
-Although this print did not have as many failures surrounding the peg, the dimensions of both Components were just slightly off in terms of securely fitting to the part. To further specify such small tolerances, parametric equations were adjusted in trial prints 3-6. 
-
-**Prototype 2 Visuals**
-
+Settings were left for alone for the trial prints, as I felt all adjustments that would improve this sort of failure were made. These trials relied purely on design decisions and parametric adjustments within the model.
+  
 **Trial Print Visuals**
+
 *Trial 1*
+<img src="I" alt="Description" style="width: 50%;">  
+  
 *Trial 2*
+<img src="INSERT" alt="Description" style="width: 50%;">   
+  
 *Trial 3*
-## Lessons Learned
+<img src="INSERT" alt="Description" style="width: 50%;">  
+
+  
+## Communicate
+
+### Lessons Learned
+
+The number one takeaway I had from this assignment was the importance of carefully thinking through taken measurements of a part if given limited time. Most of the difficulties I had surrounded having measurements which were not ideal for the design. Although it was easier to find a solution to the issue with the parametric equation set up, it would not be practical outside of this class. Additionally, the labeling of parametric equations was a neglected task within the project, which would have made needed changes clearer. 
+
+I have also learned the importance of refreshing existing machining limitations before design. The first failure could have been predicted, had a considered the size of the peg gap in comparison to the extrusion nozzle. 
+
+Overall, the larger lesson learned is that it is important to become clear on how design expectations can realistically be translated to a physical print.
+
+
+### Download My Files or Watch My Print!
+
+https://drive.google.com/drive/folders/1XP25l3x4ODb4-nHQoXARtpjfZZjzCM8X?usp=sharing
 
