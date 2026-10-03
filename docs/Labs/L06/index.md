@@ -52,7 +52,7 @@ Otherwise, system recommended slicer settings were accepted for a small print at
 
 **Initial Prototype Sliced:**
 
-<img src="L6_PRUSAPRINT1.png" alt="Description" style="width: 50%;"><img src="L6_PRUSAPRINT1.1.png" alt="Description" style="width: 50%;"><img src="PRUSASLICE1.2.png" alt="Description" style="width: 50%;"> <img src="L6_PRUSASLICE1.png" alt="Description" style="width: 50%;">
+<img src="L6_PRUSAPRINT1.png" alt="Description" style="width: 50%;"><img src="L6_PRUSASLICE1.1.png" alt="Description" style="width: 50%;"><img src="PRUSASLICE1.2.png" alt="Description" style="width: 50%;"> <img src="L6_PRUSASLICE1.png" alt="Description" style="width: 50%;">
 
 Unfortunately, this design was unsuccessful when printed. Measurements were too small and met the constraints of the Prusa Core One's 0.4 mm nozzle. 
 
