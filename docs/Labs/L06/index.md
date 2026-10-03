@@ -1,4 +1,4 @@
-# A6 – [Topic]
+# A6 – Design Fits for an Artifact
 
 ## Initial Design
   
@@ -39,11 +39,17 @@ Another helpful change that was made was in the base plate of the part, as the a
 #### Prototype 2 
 
 The failures in the first print largely came from the overall surface area of each peg and the distance between the pegs in Component 2. So, the parametric equations which relate to the distances are adjusted.
-
-**Model Adjustments**
-
-## Documentation
   
+**Model Adjustments**  
+  
+<img src="L6_R1CAD6.png" alt="Description" style="width: 50%;">    
+  
+<img src="L6_R1CAD.png" alt="Description" style="width: 50%;"> <img src="L6_R1CAD1.png" alt="Description" style="width: 50%;"> <img src="L6_R1CAD2.png" alt="Description" style="width: 50%;"> <img src="L6_R1CAD3.png" alt="Description" style="width: 50%;"> <img src="L6_R1CAD4.png" alt="Description" style="width: 50%;"> <img src="L6_R1CAD5.png" alt="Description" style="width: 50%;">  
+
+#### Prototype 3
+## Documentation
+
+
 #### Initial Prototype Print  
   
 I followed nearly the exact slicer settings as I used in last weeks design because of the success I had with it it. One difference is the infill density set at 40% rather than 50%; a decision made because of the size of the part. Another decision, backed by similar reasoning, was to decrease the layer height to 0.1mm. 
@@ -59,7 +65,9 @@ Unfortunately, this design was unsuccessful when printed. Measurements were too 
 **Initial Prototype Visuals:**
 
 
-###
+#### First Adjustment
+
+
 
 ## Lessons Learned
 
