@@ -83,7 +83,7 @@ Some adjustments were made to the PrusaSlicer settings to improve the print as w
   
 **Prototype 2 Sliced:**  
    
-<img src="L6_R1PRUSASLICER.png" alt="Description" style="width: 50%;"> <img src="L6R1PRUSASLICER2.png" alt="Description" style="width: 50%;">  
+<img src="L6_R1PRUSASLICER.png" alt="Description" style="width: 30%;"> <img src="L6R1PRUSASLICER2.png" alt="Description" style="width: 50%;">  
   
 Although this print did not have as many failures surrounding the peg, the dimensions of both Components were just slightly off in terms of securely fitting to the part. To further specify such small tolerances, parametric equations were adjusted in trial prints 3-6.  
     
@@ -95,16 +95,15 @@ Although this print did not have as many failures surrounding the peg, the dimen
 
 Settings were left for alone for the trial prints, as I felt all adjustments that would improve this sort of failure were made. These trials relied purely on design decisions and parametric adjustments within the model.
   
-**Trial Print Visuals**
+**Trial Print Visual**
+<img src="L6_TRIALPRINTS.jpeg" alt="Description" style="width: 50%;"> 
 
-*Trial 1*
-<img src="I" alt="Description" style="width: 50%;">  
-  
-*Trial 2*
-<img src="INSERT" alt="Description" style="width: 50%;">   
-  
-*Trial 3*
-<img src="INSERT" alt="Description" style="width: 50%;">  
+#### Final Print
+
+    For the final print, I was able to determine a +0.05 allowance for the diameter of the hole. This was adjusted within the parametric measurements for this revisions CAD model. I chose to reduce the layer height further to 0.3 mm to increase tolerance accuracy. 
+<img src="L6_TRIAL2.jpeg" alt="Description" style="width: 50%;"> 
+<img src="L6_TRIAL2.1.jpeg" alt="Description" style="width: 50%;"> 
+**Final Print Visuals**
 
   
 ## Communicate
