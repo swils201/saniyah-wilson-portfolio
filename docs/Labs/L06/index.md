@@ -88,8 +88,8 @@ Some adjustments were made to the PrusaSlicer settings to improve the print as w
 Although this print did not have as many failures surrounding the peg, the dimensions of both Components were just slightly off in terms of securely fitting to the part. To further specify such small tolerances, parametric equations were adjusted in trial prints 3-6.  
     
 **Prototype 2 Visuals**    
-<img src="L6TRIAL2.jpeg" alt="Description" style="width: 50%;"> 
-<img src="L6TRIAL2.1.jpeg" alt="Description" style="width: 50%;"> 
+<img src="L6T_RIAL2.jpeg" alt="Description" style="width: 50%;"> 
+<img src="L6_TRIAL2.1.jpeg" alt="Description" style="width: 50%;"> 
   
 **Trial Run Slicer Settings**
 
