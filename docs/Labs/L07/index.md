@@ -58,7 +58,7 @@ The last design choice I made before printing was to scale the part to 35% in al
 ## Lessons Learned  
    
 **Time**    
-Research for this project took around an hour to complete. The CAD modeling and design process took between 2 to 3 hours altogether. Slicing and printing each took around 45 minutes.
+Research for this project took around an hour to complete. The CAD modeling and design process took between 2 to 3 hours altogether. Slicing and printing each took around 45 minutes. The print in particular took less time than I expected, as I thought I would need to reprint several times.
    
 **Biggest mistake**   
 The largest challenge that I encountered for this project largely surrounded choosing to jump straight to the CAD model. Because I felt unsure of my design, I thought it better to visualize and apply simultaneously. This made it difficult to revert decisions, as all were built on those placed before. Realizing my mistake in this area, I assigned the dimension for each part so that it would populate within the Global Equations for the model. Using these tables, I would be able to change measurements if necessary down the line.
