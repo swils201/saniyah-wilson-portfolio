@@ -70,15 +70,13 @@ I did not want to print the parts separately because of time and machine access 
 
 **PrusaSlicer Visuals**
   
-<img src="L8_PRUSA1.png" width="50%">
-<img src="L8_PRUSA2.png" width="50%">
-<img src="L8_PRUSA3.png" width="50%">
-<img src="L8_PRUSA4.png" width="50%">
-<img src="L8_PRUSA5.png" width="50%">
-<img src="L8_PRUSA6.png" width="50%">
-<img src="L8_PRUSA7.png" width="50%">
+<img src="L8PRUSA1.png" width="50%">
+<img src="L8PRUSA3.png" width="50%">
+<img src="L8PRUSA5.png" width="50%">
+<img src="L8PRUSA6.png" width="50%">
+<img src="L8PRUSA7.png" width="50%">
+<img src="L8PRUSA8.png" width="50%">
 <img src="L8_PRUSA8.png" width="50%">
-<img src="L8_PRUSA9.png" width="50%">
   
 **Watch my print:**
 https://drive.google.com/drive/folders/1ImCl0-sNPi51N7s1JJ8paTqjW73_4lOD?usp=sharing
