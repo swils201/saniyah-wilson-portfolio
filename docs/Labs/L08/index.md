@@ -46,7 +46,7 @@ _Lid_
 
 _Pin_  
 
-<img src="L8_PIN1.png" width="50%">
+<img src="L8_PIN.png" width="50%">
 
 **_Notes on Design Decisions_**  
   
@@ -81,9 +81,12 @@ I did not want to print the parts separately because of time and machine access 
 <img src="L8_PRUSA9.png" width="50%">
   
 **Watch my print:**
+https://drive.google.com/drive/folders/1ImCl0-sNPi51N7s1JJ8paTqjW73_4lOD?usp=sharing
 
-## Decide
+## Lessons Learned
 
+This is the first of my designs that included a part I did not manufacture. To do this, it was important to consider the part in every direction and the limitations found there. This design gave me insight in the importance of considering user experience. Although it may have given more room for error to create a larger design, it would not be convenient enough to be truly convenient to me. 
 
-## Communicate
+In total this assignment took around 7 hours to complete.
 
+**Final Assembly**
