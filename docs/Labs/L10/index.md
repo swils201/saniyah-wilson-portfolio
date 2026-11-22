@@ -75,9 +75,12 @@ Using the Initial Values mentioned above for false floor design, did not have fa
 <img src="L10BATHSETTING.jpeg" alt="Description of image" width="50%" />
   
 **Final Parts**  
+
+For the final part, I sanded the outside of the box to improve the surface finish from the supports. Sanding was not done to tolerance application areas on these parts. 
+  
 <img src="L10PARA2.png" alt="Description of image" width="50%" />
 <img src="L10SUCCESS.jpeg" alt="Description of image" width="50%" />
-   
+     
 ## Fit Test
 
 I chose to combine my fit test with my initial print. With the first plate completely fractured, the image below showcases it best. For this test, I used 0.0004in clearance.
