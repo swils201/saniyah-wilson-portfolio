@@ -36,10 +36,6 @@ Ultimately, this influenced me to choose a clearance in between the two found in
 ## CAD Design
 
 
-**Print Settings**
-<img src="L10BATHSETTING.jpg" alt="Description of image" width="50%" />
-<img src="L10PRINTSETTING.jpg" alt="Description of image" width="50%" />
-<img src="L10BATHSETTING.png" alt="Description of image" width="50%" />
 
 **CAD Visuals**  
   
@@ -54,9 +50,25 @@ Ultimately, this influenced me to choose a clearance in between the two found in
 <img src="L10CAD9.png" alt="Description of image" width="50%" />
   
 ## Preprocessing for 3D Printing
+**Print Settings**  
+  
+<img src="L10PRINTSETTING.jpg" alt="Description of image" width="50%" />
+<img src="L10PRINTSETTING.png" alt="Description of image" width="50%" />
+<img src="L10PRINTSETTING2.png" alt="Description of image" width="50%" />
+<img src="L10PRINTSETTING3.png" alt="Description of image" width="50%" />
+<img src="L10PRINTSETTING4.png" alt="Description of image" width="50%" />
+<img src="L10PRINTSETTING5.png" alt="Description of image" width="50%" />
 
 ## Post-Processing 
 
+**Print 1 Visuals**
+  
+<img src="L10PRINT1.jpeg" alt="Description of image" width="50%" />
+<img src="L10BATHSETTING.jpeg" alt="Description of image" width="50%" />
+  
+**Final Parts**  
+  
+<img src="L10SUCCESS.jpeg" alt="Description of image" width="50%" />
 ## Fit Test
 
 ## Lessons Learned
