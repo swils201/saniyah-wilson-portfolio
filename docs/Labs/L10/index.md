@@ -23,7 +23,7 @@ To finish the planning for the design, I researched the shrinkage that must be c
 
 Additionally, to determine the minimums for my design, I found the specifications for the Form 4 SLA printers which we have access too. For this design, the most important specification takeaways include the minimum unsupported wall thickness, the minimum supported wall thickness, and the minimum clearance. On the Form Labs website, the minimum clearance is set at 0.4 mm, dramatically higher than the RC2 sliding fit recommendation found in the Machinery's Handbook. 
 
-Ultimately, this influenced me to choose a clearance in between the two found in research. If anything, I viewed this as a test to the limitations of the machinery.
+Ultimately, this influenced me to choose a clearance in between the two found in research. If anything, I viewed this as a test to the limitations of the machinery. Because of this, I chose to only use a clearance which accounted for the sliding fit alone and use the results to determine what changes would be necessary to the clearance for shrinkage.
 
 ### Sketch Visuals
 
@@ -44,7 +44,11 @@ The insert feature of my model is the hidden floor panel and the slot exists as 
 <img src="L10CAD7.png" alt="Description of image" width="50%" />
 <img src="L10CAD8.png" alt="Description of image" width="50%" />
 <img src="L10CAD9.png" alt="Description of image" width="50%" />
+
+**Initial Values**  
   
+<img src="L10PARA.png" alt="Description of image" width="50%" />  
+
 ## Preprocessing for 3D Printing
 **Print Settings**  
 For the print itself, I teamed up with two other students to print my first parts using clear standard resin. 
@@ -56,7 +60,8 @@ For the print itself, I teamed up with two other students to print my first part
 <img src="L10PRINTSETTING5.png" alt="Description of image" width="50%" />
   
 ## Post-Processing 
-  
+
+
 **Print 1 Visuals**
   
 <img src="L10PRINT1.jpeg" alt="Description of image" width="50%" />
