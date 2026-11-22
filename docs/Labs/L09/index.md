@@ -8,7 +8,7 @@
   
 To complete this assignment, I worked with classmate Jack Welch on the design and cutting.
 
-We decided to design a small wooden home model which can be put together similar to puzzle pieces. First, we began splitting the components which we would design and drew rough sketches of our individual components. 
+We decided to design a small wooden home model which can be put together similar to puzzle pieces. First, we began splitting the components which we would design and drew rough sketches of our individual components. The geometry of the pieces overall continue the puzzle theme and are modeled after general existing 3d puzzle parts. A supporting beam was considered to add an extra force to constricting part movement.
 
 ## Analyze  
 
@@ -74,11 +74,12 @@ Below are the failed parts, of those I designed, which were discarded. There wer
 <img src="L9FINALKIT2.jpeg" alt="Description of image" width="60%">
     
 
-Once we communicated, and compared our CAD files side by side, all errors were discovered. Additionally, we decided to another supporting beam through Jack's design of walls to increase the overall stability of the house.
+Once we communicated, and compared our CAD files side by side, all errors were discovered. Additionally, we decided to another supporting beam through Jack's design of walls to increase the overall stability of the house. 
 
 **Watch the Cuts or Download the Files**   
 https://drive.google.com/drive/folders/1IzoxIToqCER9lnqqXOJK_Xo5DhIN1F68?usp=sharing
 
+_During the cutting process, I noticed the settings chosen and material used produced a white smoke and little to no flame trail._
 **Cut Setting Table**  
   
 <img src="L9SETTINGS.png" alt="Description of image" width="60%">
@@ -86,7 +87,10 @@ https://drive.google.com/drive/folders/1IzoxIToqCER9lnqqXOJK_Xo5DhIN1F68?usp=sha
 ### Successful Final Kit
 ## Lessons Learned (pictures + paragraphs)
 
-Through this assignment, I learned the requirements to safely and successfully laser cutting thin wood. One of the insights I gained from that experience is the importance of creating a test which aligns with your given design. It was difficult to place our exact clearances at first when comparing the test coupon to our design because of the orientation of the test. Additionally, the many failed parts which contributed to the process of creating the kit taught me the importance of thorough communication. If we had compared our parts closer, or talked things through more before acting, there may have been less failures along the way. Lastly, in the future, I may have considered doing larger slots for the sliding fits of this design. I believe some of the difficulty in finding a clearance was a result of its small magnitude. 
+Through this assignment, I learned the requirements to safely and successfully laser cutting thin wood. One of the insights I rom that experience is the importance of creating a test which aligns with your given design. It was difficult to place our exact clearances at first when comparing the test coupon to our design because of the orientation of the test. Additionally, the many failed parts which contributed to the process of creating the kit taught me the importance of thorough communication. If we had compared our parts closer, or talked things through more before acting, there may have been less failures along the way. Lastly, in the future, I may have considered doing larger slots for the sliding fits of this design. I believe some of the difficulty in finding a clearance was a result of its small magnitude. 
+
+**Measured vs. Expected Kerf Values**
+After the research conducted about laser cutting, the training, and conversations with peers completing the same project, I was surprised to find the kerf we found was much smaller than values I had seen. If we had assumed a larger value, the parts would have been far too loose, and assembly of the house would be made nearly impossible. 
 
 **Process Log**  
    
@@ -95,4 +99,11 @@ Through this assignment, I learned the requirements to safely and successfully l
 <img src="L9PROCESS3.png" alt="Description of image" width="60%">
 <img src="L9PROCESS4.png" alt="Description of image" width="60%">
 
+**Taguchis Quality Loss Function**
+
+One part in the kit which works but is not on target is the final floor used. Although the part fits correctly and is held by the other parts without the supporting beams, it is not as stable without them, and its prone to falling out. If the part was made to the thousands, this would mean loss in consumer satisfaction, production costs as parts would need to be remade, or potentially packaging costs as parts may disassemble and damage it.
+
+**One Last Cut**
+
+If I had one last cut, I would try to cut this design using a different material. For this lab, the material was not specified and limited to wood. I would be interested in an acrylic cut of this design for the aesthetic potential aesthetic appeal. Additionally, I would have liked to etch on details that added personality to the design, such as windows, a door, etc. 
 
