@@ -30,7 +30,7 @@ Ultimately, this influenced me to choose a clearance in between the two found in
 
 ### Sketch Visuals
 
-<img src="L10SKETCH.jpeg" alt="Description of image" width="50%" />
+<img src="L10SKETCH.jpg" alt="Description of image" width="50%" />
   
 ## CAD Design
 I modeled this part in SolidWorks and checked my dimensions before printing through an assembly of the CAD files which make it up. The model was parametrically modeled using smallest viable dimensions while still demonstrating the function of the design. I chose to prioritize designing a small part, as SLA has more post-processing than FDM printing. This way reprints are cost lost less time overall.
