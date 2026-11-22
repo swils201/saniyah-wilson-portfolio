@@ -27,15 +27,11 @@ Ultimately, this influenced me to choose a clearance in between the two found in
 
 ### Sketch Visuals
 
-
-### Resources
-- https://formlabs.com/blog/ultimate-guide-to-stereolithography-sla-3d-printing/
-- https://www.3dmag.com/3d-wikipedia/resin-printing-sla-uv-resin-technology-guide/
-- 
-
+  
 ## CAD Design
+I modeled this part in SolidWorks and checked my dimensions before printing through an assembly of the CAD files which make it up. The model was parametrically modeled using smallest viable dimensions while still demonstrating the function of the design. I chose to prioritize designing a small part, as SLA has more post-processing than FDM printing. This way reprints are cost lost less time overall.
 
-
+The insert feature of my model is the hidden floor panel and the slot exists as a part of the box.
 
 **CAD Visuals**  
   
@@ -51,6 +47,7 @@ Ultimately, this influenced me to choose a clearance in between the two found in
   
 ## Preprocessing for 3D Printing
 **Print Settings**  
+For the print itself, I teamed up with two other students to print my first parts using clear standard resin. 
   
 <img src="L10PRINTSETTING.png" alt="Description of image" width="50%" />
 <img src="L10PRINTSETTING2.png" alt="Description of image" width="50%" />
@@ -71,4 +68,13 @@ Ultimately, this influenced me to choose a clearance in between the two found in
 ## Fit Test
 
 ## Lessons Learned
+
+The primary challenge that arose from achieving the RC2 fit is that the machining clearances provided in the Machinery's Handbook do not align with the limits of the Form 4 printer. This assignment taught me it is not smart to try and fight the machinery, but to rather always consider it thoroughly in the design. Additionally, I wish I had documented each of the post-processing sessions, rather than just the first. In the future, I will keep this in mind as I think it would helpful to further understand what contributes to poor surface finishes. The primary reason my first plate shattered was due to the roughness on the surface from poor support placement. To improve accuracy, I could improve support placement based on the function of my design and tolerance placement that goes with that.
+
+**Time Spent:** 7.5 hrs
+
+### Resources
+- https://formlabs.com/blog/ultimate-guide-to-stereolithography-sla-3d-printing/
+- https://www.3dmag.com/3d-wikipedia/resin-printing-sla-uv-resin-technology-guide/
+- 
 
