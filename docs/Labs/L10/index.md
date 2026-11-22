@@ -71,7 +71,7 @@ Using the Initial Values mentioned above for false floor design, did not have fa
 <img src="L10BATHSETTING.jpeg" alt="Description of image" width="50%" />
   
 **Final Parts**  
-
+<img src="L10PARA2.png" alt="Description of image" width="50%" />
 <img src="L10SUCCESS.jpeg" alt="Description of image" width="50%" />
   
 ## Fit Test
