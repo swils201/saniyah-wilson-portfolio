@@ -8,9 +8,11 @@
   
 To complete this assignment, I worked with classmate Jack Welch on the design and cutting.
 
-We decided to design a small wooden home model which can be put together similar to puzzle pieces. First, we began splitting the components which we would design and drew rough sketches of our individual components. The geometry of the pieces overall continue the puzzle theme and are modeled after general existing 3d puzzle parts. A supporting beam was considered to add an extra force to constricting part movement.
-
-## Analyze  
+We decided to design a small wooden home model which can be put together similar to puzzle pieces. First, we began splitting the components which we would design and drew rough sketches of our individual components. The geometry of the pieces overall continue the puzzle theme and are modeled after general existing 3d puzzle parts. A supporting beam was considered to add an extra force to constricting part movement. The last consideration made in the initial design was the angle of which the angled slots would be intended to sit at. Basic trigonometry was used to find this value below.
+  
+<img src="L9SKETCH.jpg" alt="Description of image" width="40%">
+  
+## Analyze    
 
 ### Measuring Material and Kerf
 
