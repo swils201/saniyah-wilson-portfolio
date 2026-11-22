@@ -60,7 +60,19 @@ _Roof_
 
 ## Communicate 
 ### Final Kit Cut Attempts
-In the process of cutting the final kit of our design we discovered two major issues. Dimensions had not been communicated well between us throughout the modeling process causing tolerances to be misplaced throughout the design. 
+In the process of cutting the final kit of our design we discovered two major issues. Dimensions had not been communicated well between us throughout the modeling process causing tolerances to be misplaced throughout the design. Additionally, some parts were more singed than preferred and where redone with adjustments were made to clean up the edge quality. Including decreasing the speed and the number of passes to two. 
+
+Below are the failed parts, of those I designed, which were discarded. There were many reasons including but not limited to a too tight tolerance on one side causing fracture in the floor, charring beyond what was achieved previously, etc. 
+
+
+
+Once we communicated, and compared our CAD files side by side, all errors were discovered. Additionally, we decided to another supporting beam through Jack's design of walls to increase the overall stability of the house.
+
+
+
+
 ### Successful Final Kit
 ## Lessons Learned (pictures + paragraphs)
+
+Through this assignment, I learned the requirements to safely and successfully laser cutting thin wood. One of the insights I gained from that experience is the importance of creating a test which aligns with your given design. It was difficult to place our exact clearances at first when comparing the test coupon to our design because of the orientation of the test. Additionally, the many failed parts which contributed to the process of creating the kit taught me the importance of thorough communication. If we had compared our parts closer, or talked things through more before acting, there may have been less failures along the way. Lastly, in the future, I may have considered doing larger slots for the sliding fits of this design. I believe some of the difficulty in finding a clearance was a result of its small magnitude. 
 
