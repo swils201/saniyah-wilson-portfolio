@@ -63,7 +63,7 @@ For the print itself, I teamed up with two other students to print my first part
   
 ## Post-Processing 
   
-Using the Initial Values mentioned above for false floor design, did not have favorable results. Once supports were removed, I attempted to test my print, not accounting for the need to do the final cure. Although the parts fit, I found it to be too tight, and attempted to remove the plate with pliers. This subsequently shattered the plate in the lab, which I was unfortunately unable to document. Luckily, however, the box was preserved, and I used electric calipers to measure the inside slot fixture post curing. I directly translated these measurements from percent into parametric model changes for the inserting plate. I was advised by a classmate that clear resin is generally weaker so I chose to do this reprint in grey. With these new dimensions, and material, I found sucess!
+Using the Initial Values mentioned above for false floor design, did not have favorable results. Once supports were removed, I attempted to test my print, not accounting for the need to do the final cure. Although the parts fit, I found it to be too tight, and attempted to remove the plate with pliers. This subsequently shattered the plate in the lab, which I was unfortunately unable to document. Luckily, however, the box was preserved, and I used electric calipers to measure the inside slot fixture post curing. I directly translated these measurements from percent into parametric model changes for the inserting plate. I found this to be around 6% expansion. I was advised by a classmate that clear resin is generally weaker so I chose to do this reprint in grey. With these new dimensions of a clearance at 0.0025in, and material, I found success!
   
 **Print 1 Visuals**
    
@@ -73,19 +73,23 @@ Using the Initial Values mentioned above for false floor design, did not have fa
 **Final Parts**  
 <img src="L10PARA2.png" alt="Description of image" width="50%" />
 <img src="L10SUCCESS.jpeg" alt="Description of image" width="50%" />
-  
+   
 ## Fit Test
 
 I chose to combine my fit test with my initial print. With the first plate completely fractured, the image below showcases it best. For this test, I used 0.0004in clearance.
+  
 <img src="L10PRINT1.jpeg" alt="Description of image" width="50%" />
+  
 ## Lessons Learned
 
-The primary challenge that arose from achieving the RC2 fit is that the machining clearances provided in the Machinery's Handbook do not align with the limits of the Form 4 printer. This assignment taught me it is not smart to try and fight the machinery, but to rather always consider it thoroughly in the design. Additionally, I wish I had documented each of the post-processing sessions, rather than just the first. In the future, I will keep this in mind as I think it would helpful to further understand what contributes to poor surface finishes. The primary reason my first plate shattered was due to the roughness on the surface from poor support placement. To improve accuracy, I could improve support placement based on the function of my design and tolerance placement that goes with that.
+The primary challenge that arose from achieving the RC2 fit is that the machining clearances provided in the Machinery's Handbook do not align with the limits of the Form 4 printer. This assignment taught me it is not smart to try and fight the machinery, but to rather always consider it thoroughly in the design. Additionally, I wish I had documented each of the post-processing sessions, rather than just the first. In the future, I will keep this in mind as I think it would helpful to further understand what contributes to poor surface finishes. The primary reason my first plate shattered was due to the roughness on the surface from poor support placement. To improve accuracy, I could improve support placement based on the function of my design and tolerance placement that goes with that. Lastly, taking and comparing the measurements within the process of SLA printing was difficult as I didn't want to use any calipers in the lab on a sticky product. I assumed the part had expanded because I did not think to take measurements immediately out the bath, as I felt the surface was still tacky. Another improvement to accuracy would be considering that properly, as I would have had a fit that is more accurate to the Machining definition
 
+**Final Chosen Clearance:**  0.0025in
+  
 **Time Spent:** 7.5 hrs
 
 ### Resources
 - https://formlabs.com/blog/ultimate-guide-to-stereolithography-sla-3d-printing/
 - https://www.3dmag.com/3d-wikipedia/resin-printing-sla-uv-resin-technology-guide/
-- 
+- Machinery's Handbook
 
