@@ -75,8 +75,8 @@ Below are the failed parts, of those I designed, which were discarded. There wer
 
 Once we communicated, and compared our CAD files side by side, all errors were discovered. Additionally, we decided to another supporting beam through Jack's design of walls to increase the overall stability of the house.
 
-
-
+**Watch the Prints**
+https://drive.google.com/drive/folders/1IzoxIToqCER9lnqqXOJK_Xo5DhIN1F68?usp=sharing
 
 ### Successful Final Kit
 ## Lessons Learned (pictures + paragraphs)
