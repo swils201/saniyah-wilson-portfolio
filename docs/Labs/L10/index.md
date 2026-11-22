@@ -13,6 +13,9 @@
 
 For my design, I decided to utilize the RC2 sliding fit to create a prototype of a box with a false floor which hides a compartment. This was inspired by sliding of modern dresser drawers and the way they lay flush to the surface.
 ### Machinery's Handbook Research
+
+The Machinery's Handbook describes RC2 sliding fits as fits which are intended for accurate location and can move and turn easily, without running freely. This fit functions well in my design, as to stay hidden the plate must stay in place to stay flush to the surface of the box. I noticed the sliding fit in the table were below the tolerances mentioned for SLA printing within the lecture. For this reason, I chose to keep the Machinery's Handbook as a general guide to the size of the increase or decrease from a given measurement proportionally rather than following the sliding fit table exactly. 
+
 ### Real World Applications
 
 RC2 sliding fits may be used for gear or parts which must stay in plate and eb able to be removed, or replaced, easily. This clearance is especially well fit for smooth movement such as that needed for twist on and off containers utilizing threading. I would, and will, avoid use of an RC2 fit when using an assembly which is not intended to be used at high speeds. 
@@ -27,6 +30,7 @@ Ultimately, this influenced me to choose a clearance in between the two found in
 
 ### Sketch Visuals
 
+<img src="L10SKETCH.png" alt="Description of image" width="50%" />
   
 ## CAD Design
 I modeled this part in SolidWorks and checked my dimensions before printing through an assembly of the CAD files which make it up. The model was parametrically modeled using smallest viable dimensions while still demonstrating the function of the design. I chose to prioritize designing a small part, as SLA has more post-processing than FDM printing. This way reprints are cost lost less time overall.
