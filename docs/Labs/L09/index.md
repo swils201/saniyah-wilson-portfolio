@@ -63,8 +63,15 @@ _Roof_
 In the process of cutting the final kit of our design we discovered two major issues. Dimensions had not been communicated well between us throughout the modeling process causing tolerances to be misplaced throughout the design. Additionally, some parts were more singed than preferred and where redone with adjustments were made to clean up the edge quality. Including decreasing the speed and the number of passes to two. 
 
 Below are the failed parts, of those I designed, which were discarded. There were many reasons including but not limited to a too tight tolerance on one side causing fracture in the floor, charring beyond what was achieved previously, etc. 
-
-
+  
+<img src="L9TEST.jpeg" alt="Description of image" width="60%">
+<img src="L9SIDECUT.jpeg" alt="Description of image" width="60%">
+<img src="L9COUPON.jpeg" alt="Description of image" width="60%">
+<img src="L9SIDECUT2.jpeg" alt="Description of image" width="60%">
+<img src="L9FLOORCUT.jpeg" alt="Description of image" width="60%">
+<img src="L9FINALKIT.jpeg" alt="Description of image" width="60%">
+<img src="L9FINALKIT2.jpeg" alt="Description of image" width="60%">
+  
 
 Once we communicated, and compared our CAD files side by side, all errors were discovered. Additionally, we decided to another supporting beam through Jack's design of walls to increase the overall stability of the house.
 
