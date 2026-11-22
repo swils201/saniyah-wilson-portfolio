@@ -84,3 +84,10 @@ https://drive.google.com/drive/folders/1IzoxIToqCER9lnqqXOJK_Xo5DhIN1F68?usp=sha
 
 Through this assignment, I learned the requirements to safely and successfully laser cutting thin wood. One of the insights I gained from that experience is the importance of creating a test which aligns with your given design. It was difficult to place our exact clearances at first when comparing the test coupon to our design because of the orientation of the test. Additionally, the many failed parts which contributed to the process of creating the kit taught me the importance of thorough communication. If we had compared our parts closer, or talked things through more before acting, there may have been less failures along the way. Lastly, in the future, I may have considered doing larger slots for the sliding fits of this design. I believe some of the difficulty in finding a clearance was a result of its small magnitude. 
 
+**Process Log**
+<img src="L9PROCESS1.png" alt="Description of image" width="60%">
+<img src="L9PROCESS2.png" alt="Description of image" width="60%">
+<img src="L9PROCESS3.png" alt="Description of image" width="60%">
+<img src="L9PROCESS4.png" alt="Description of image" width="60%">
+
+
