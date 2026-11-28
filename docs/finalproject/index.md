@@ -57,12 +57,20 @@ Ultimately, I chose to go with the dog puzzle trainer because it has the most th
 
 To begin the design process, I started sketching the main parts which I imagine making up the design. The product is made up of seven small parts total. The box which can be filled with dog treats or food. Three panels with different pattern cuts and T-shaped extrudes two sides can be slid into the matching T-Shaped slots in the box. In those pattern cuts, knobs can be inserted and turned to rest and fit. The dog then moves these around and as they do, are exposed to new areas to grab food.
 
+
+## Concept Development
+
 **Concept Sketch:**
 
 <img src="roughdesign.jpg" alt="Description" width="50%">   
-## Concept Development
+
+Once the concepts were determined, I assigned dimensions to the geometry, noted in the table and sketches above. Although I have decided to continue with this design, the materials available for manufacture of these parts are not safe to expose to my dog, so it is a prototype which can be continuously improved. In my opinion, it is best to be manufactured in food-grade safe plastic, but this design addresses the geometric, physical, and conceptual aspects of the problem.
+
+In this concept development process, I decided I would use FDM to print the box and panel, as they are larger parts with low detail and the knobs using SLA. SLA is best suited because of the curved geometry and small details on each part.
 
 ## Testing Critical Features
+
+To test the critical features of my design, I chose to model a single box and panel with the T-Shaped sliding fit to test the sliding clearance and a knob to test the orientation and shrinkage of the complex part. As these parts are prototypes, I chose to translate the concept directly into CAD design. 
 
 ## Video Presentation
 
