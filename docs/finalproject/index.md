@@ -32,10 +32,34 @@ In laser cutting, kerf refers to the material which is burnt away by the layer b
 **Resources:**  
 - https://sendcutsend.com/blog/what-is-kerf-in-laser-cutting/?srsltid=AY6E961SRIRCEjVQPQc8nsaZh8twEtHmsgEVnH3rquLNGTJFuAj9rz5i  
 
-## Problem Definiition
+## Problem Definition
+  
+Initially, I considered issues which focused on myself and my environment for this project. A few years ago, I lost a travel sized chess board I had. I considered creating a small chess board using laser cut boards of wood, small screws or wooden adhesive, a designed or purchased hinge, and SLA printed pieces which could be stored within. This is inspired by the design seen below.
+  
+<img src="chessboard.jpeg" alt="Description" width="50%">   
+
+_Source:_ 
+https://www.amazon.com/dp/B08Z3ML1VR?plpRedirect=mhFallback&ref=clp_hp_h_pc
+
+The next problem came to mind on a walk with my dog. I considered creating a dog waste bag dispenser which had a large enough clasp to attach to her leash. The inspiration can be seen below.
+
+<img src="poopbag.jpeg" alt="Description" width="50%">   
+
+https://www.chewy.com/pet-fit-life-leash-attachment-dog/dp/3727438
+
+Once I had the initial idea of a product oriented toward my dog, I thought deeper about what I may be able to help her with. As she is a high energy, easily bored breed, I thought it would be a good idea to create a dog puzzle trainer. Essentially, a design similar to the one shown below, but with food always available, so she would not get frustrated while still teaching her the mechanisms of the puzzles.
+
+<img src="puzzle.jpeg" alt="Description" width="50%">   
 
 ## Problem Selection
 
+Ultimately, I chose to go with the dog puzzle trainer because it has the most thought and reasoning behind it and I could demonstrate a few of the mechanisms which I've learned in this course through it.
+
+To begin the design process, I started sketching the main parts which I imagine making up the design. The product is made up of seven small parts total. The box which can be filled with dog treats or food. Three panels with different pattern cuts and T-shaped extrudes two sides can be slid into the matching T-Shaped slots in the box. In those pattern cuts, knobs can be inserted and turned to rest and fit. The dog then moves these around and as they do, are exposed to new areas to grab food.
+
+**Concept Sketch:**
+
+<img src="roughdesign.jpg" alt="Description" width="50%">   
 ## Concept Development
 
 ## Testing Critical Features
