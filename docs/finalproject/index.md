@@ -21,9 +21,16 @@ FDM printing typically produces parts which are anisotropic or weaker in the Z d
 - https://rapidmade.com/isotropic-vs-anisotropic-strength-in-3d-printing/
 
 ### SLA Shrinkage 
-SLA printed parts typically experience shrinkage post-curing, a behavior that is important to consider when designing assembled parts. The 
+SLA printed parts typically experience shrinkage post-curing, a behavior that is important to consider when designing assembled parts. It mainly affects the dimensioning and allowable clearances/tolerances of each part. From the resource I've used, it seems shrinkage generally for resin can range from 1.5-3 percent. These percentages can be applied to chosen clearance dimensions to accommodate for shrinkage. Additionally, there are existing values aligning with different geometric limitations for different part designs. If I choose to do a resin print, I will pull values from the table provided in the resource I've cited below to accommodate for the post curing behavior of SLA. I will reflect on the values found in previous resin projects regarding the print shrinkage as well to make similar design choices.
+
+**Resources:**  
+- https://sgd3d.co.uk/3d-printing/sla-3d-printing-accuracy-tolerances/  
    
 ### Laser Cut Kerf
+In laser cutting, kerf refers to the material which is burnt away by the layer beyond the original design intent. This changes with material and laser settings. Determining the kerf produced by the material and chosen settings for the cut of your part is important so you may offset the laser, or accommodate clearance values to match the intent. If I choose to use laser cutting in my design, I will do a test coupon of the material to determine the setting which limits kerf, and accommodate laser settings as appropriate.
+
+**Resources:**  
+- https://sendcutsend.com/blog/what-is-kerf-in-laser-cutting/?srsltid=AY6E961SRIRCEjVQPQc8nsaZh8twEtHmsgEVnH3rquLNGTJFuAj9rz5i  
 
 ## Problem Definiition
 
