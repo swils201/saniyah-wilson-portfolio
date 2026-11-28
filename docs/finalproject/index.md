@@ -37,20 +37,20 @@ In laser cutting, kerf refers to the material which is burnt away by the layer b
   
 Initially, I considered issues which focused on myself and my environment for this project. A few years ago, I lost a travel sized chess board I had. I considered creating a small chess board using laser cut boards of wood, small screws or wooden adhesive, a designed or purchased hinge, and SLA printed pieces which could be stored within. This is inspired by the design seen below.
   
-<img src="chessboard.jpeg" alt="Description" width="50%">   
+<img src="chessboard.jpg" alt="Description" width="50%">   
 
 _Source:_ 
 https://www.amazon.com/dp/B08Z3ML1VR?plpRedirect=mhFallback&ref=clp_hp_h_pc
 
 The next problem came to mind on a walk with my dog. I considered creating a dog waste bag dispenser which had a large enough clasp to attach to her leash. The inspiration can be seen below.
 
-<img src="poopbag.jpeg" alt="Description" width="50%">   
+<img src="poopbag.png" alt="Description" width="50%">   
 
 https://www.chewy.com/pet-fit-life-leash-attachment-dog/dp/3727438
 
 Once I had the initial idea of a product oriented toward my dog, I thought deeper about what I may be able to help her with. As she is a high energy, easily bored breed, I thought it would be a good idea to create a dog puzzle trainer. Essentially, a design similar to the one shown below, but with food always available, so she would not get frustrated while still teaching her the mechanisms of the puzzles.
 
-<img src="puzzle.jpeg" alt="Description" width="50%">   
+<img src="puzzle.png" alt="Description" width="50%">   
 
 ### Problem Selection
 
@@ -63,7 +63,7 @@ To begin the design process, I started sketching the main parts which I imagine 
 
 **Concept Sketch:**
 
-<img src="roughdesign.jpg" alt="Description" width="50%">   
+<img src="finalprojsketch.jpg" alt="Description" width="50%">   
 
 Once the concepts were determined, I assigned dimensions to the geometry, noted in the table and sketches above. Although I have decided to continue with this design, the materials available for manufacture of these parts are not safe to expose to my dog, so it is a prototype which can be continuously improved. In my opinion, it is best to be manufactured in food-grade safe plastic, but this design addresses the geometric, physical, and conceptual aspects of the problem.
 
